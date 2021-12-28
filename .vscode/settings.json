@@ -1,0 +1,5 @@
+{
+    "cssvar.files": [
+        "node_modules/open-props/src/**/*.css"
+    ]
+}
